@@ -1,9 +1,9 @@
 #!/bin/bash
 rm -rf Server.py
 rm -rf Update.sh
-rm -rf install.sh
+rm -rf Install.sh
 cd ..
-rm -rf /Ex_Server
+rm -rf /Ex_server
 git clone https://github.com/Exelka/Ex_Server
-cd Nmap_CVE/
-python3 Nmap_CVE.py
+cd Ex_server/
+python3 Ex_server.py

@@ -1,6 +1,6 @@
 #!/bin/bash
 rm -rf Server.py
-rm -rf Update.sh
+rm -rf Update.py
 rm -rf Install.sh
 rm -rf README.md
 cd ..

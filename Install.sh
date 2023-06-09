@@ -6,4 +6,4 @@ cd ..
 rm -rf /Ex_server
 git clone https://github.com/Exelka/Ex_Server
 cd Ex_server/
-python3 Ex_server.py
+python3 Server.py
